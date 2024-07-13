@@ -1,0 +1,10 @@
+__pycache__/
+checkpoints/
+pretrained/
+helpers/
+results/
+.vscode/
+results*.json
+
+database_features_val.npy
+query_features_val.npy

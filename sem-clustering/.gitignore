@@ -1,0 +1,10 @@
+.vscode/
+**/__pycache__/
+database_features_*.npy
+sample_data/sem_val_db_clc_all.json
+query_features_*.npy
+silhouette/
+results/
+centers/
+pickle/
+utils/

@@ -1,0 +1,5 @@
+.vscode/
+pretrained/
+inference/
+**/__pycache__
+validation/result_*
