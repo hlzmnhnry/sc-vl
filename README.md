@@ -6,6 +6,10 @@ This repository contains the **anonymized** code for WACV 2025 submission *Seman
     <img src="content/overview.png" alt="drawing" width="400"/>
 </p>
 
+## Data access
+
+The data used within our experiments can be accessed using [this link](https://terabox.com/s/1jn1RDM4hcOawmXh7EXBpBg).
+
 ## Visual Place Recognition
 
 In our experiments, we use [NetVlad](https://arxiv.org/abs/1511.07247) to learn VPR descriptors which form a image retrieval database. For implementation, we used [this repository](https://github.com/Nanne/pytorch-NetVlad), which we adapted to our dataset and managed in `pytorch-NetVlad`.
