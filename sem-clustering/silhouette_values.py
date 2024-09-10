@@ -38,9 +38,6 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
-    print(args.pickle_path)
-    print(args.type)
-    
     silhouette_scores = dict()
     size_at_hl = dict()
     
