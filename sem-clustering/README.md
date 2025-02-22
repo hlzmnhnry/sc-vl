@@ -1,6 +1,6 @@
 # Semantic clustering
 
-Scripts for learning (semantic) clusters used within experiments of the WACV 2025 submission *Semantic Clustering of Image Retrieval Databases used for Visual Localization*. The repository uses distributions semantic segmentation masks of (aerial) images to cluster them for VPR.
+Scripts for learning (semantic) clusters. The repository uses distributions of semantic segmentation masks of (aerial) images to cluster them for VPR.
 
 ## Usage
 
