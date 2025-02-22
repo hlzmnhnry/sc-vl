@@ -1,6 +1,6 @@
 # Semantic Clustering for Visual Localization
 
-This repository contains the code for WACV 2025 paper *Semantic Clustering of Image Retrieval Databases used for Visual Localization*. The code can be used to adapt the procedure to other datasets and to reproduce our results after publishing the entire 4 Seasons dataset. The individual submodules that realize the individual components of our pipeline are collected here.
+This repository contains the code for the WACV 2025 paper *Semantic Clustering of Image Retrieval Databases used for Visual Localization*. The code can be used to adapt the procedure to other datasets and to reproduce our results after publishing the entire 4 Seasons dataset. The individual submodules that realize the individual components of our pipeline are collected here.
 
 <p align="center">
     <img src="content/overview.png" alt="drawing" width="400"/>
