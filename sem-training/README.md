@@ -1,6 +1,6 @@
 # Semantic Segmentation
 
-Scripts for training semantic segmentation CNNs, based on [pytorch-segmentation](https://github.com/yassouali/pytorch-segmentation), and used within experiments of the WACV 2025 submission *Semantic Clustering of Image Retrieval Databases used for Visual Localization*.
+Scripts for training semantic segmentation CNNs, based on [pytorch-segmentation](https://github.com/yassouali/pytorch-segmentation).
 
 <p align="center">
     <img src="content/s4s_overview.png" alt="s4s_overview" width="600"/>
